@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @balarival
 - 👀 I’m interested in Fullstack web development
 - 🌱 I’m currently learning Reactjs and nodejs
-- 💞️ I’m looking to collaborate on (no idea what this point is making)
+- 💞️ I’m looking to collaborate on startup ideas
 - 📫 How to reach me at instagram @bala._.bk
 
 <!---
