@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @balarival
+- 👋 Hi, I’m Balakumar
 - 👀 I’m interested in Fullstack web development
 - 🌱 I’m currently learning Angularjs and nodejs
 - 💞️ I’m looking to collaborate on startup ideas
